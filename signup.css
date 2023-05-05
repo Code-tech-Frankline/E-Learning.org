@@ -94,7 +94,7 @@ form{
     height: 520px;
     display: flex;
     margin-top: 50px;
-    font-family: cursive;
+/*     font-family: cursive; */
 }
 
 input[type=text], input[type=email], input[type=password]{
